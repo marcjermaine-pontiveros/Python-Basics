@@ -26,11 +26,11 @@ Some examples are based from [CS50 Web Programming with Python and JavaScript](h
 - Exception Handling
     - [Examples: QueueExceptions.py](Queue/)
 
-- Functional Programming
+- [Functional Programming](Functional/)
     
-    - [Lambda Functions](anonymous_functions.py) 
+    - [Lambda Functions](Functional/anonymous_functions.py) 
 
-    - [Decorators](decorators.py)
+    - [Decorators](Functional/decorators.py)
 
 - Introduction to Unit Testing and Code Coverage
 
